@@ -1,0 +1,73 @@
+body
+{
+  background-color: rgb(35, 119, 142);
+}
+#but
+{
+  position: absolute;
+  transform: translate(380px,250px);
+  width: 200px;
+  height: 20px;
+}
+#pass
+{
+  position: absolute;
+  transform: translate(380px,300px);
+  width: 200px;
+  height: 20px;
+}
+#em
+{
+  position: absolute;
+  transform: translate(200px,227px);
+  font-size: 20px;
+}
+#pas
+{
+  position: absolute;
+  transform: translate(160px,277px);
+  font-size: 20px;
+}
+#img1
+{
+  position: absolute;
+  transform: translate(800px,-27px);
+  height:627px;
+  width: 480px;
+}
+#h1
+{
+  color: rgb(180, 198, 67);
+  position: absolute;
+  transform: translate(150px,100px);
+  font-size: 45px;
+}
+#sub
+{
+  position: absolute;
+  transform: translate(350px,350px);
+  color: rgb(211, 81, 25);
+}
+#box1
+{
+   background-image: url(https://images.pexels.com/photos/600114/pexels-photo-600114.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+   width: 300px;
+   height: 550px;
+
+}
+#head1
+{
+  color: rgb(16, 134, 20);
+}
+#box2
+{
+   background-image: url(https://images.pexels.com/photos/259915/pexels-photo-259915.jpeg?auto=compress&cs=tinysrgb&w=600);
+   width: 300px;
+   height: 550px;
+   transform: translate(310px,-550px);
+}
+#sub3
+{
+  position: absolute;
+  transform: translate(0px,0px);
+}
